@@ -2,8 +2,8 @@
 #include "Direction.hpp"
 #include <string>
 #include <unordered_map>
-using namespace std;
 #include <climits>
+using namespace std;
 struct place
 {
     char letter = '_';
